@@ -13,7 +13,7 @@
 
 ## INSTALLATION
 I'm using manjaro linux, so the installation guide will be oriented on arch-based disrtibutions
-- Airflow can be installed with [quick start page](https://airflow.apache.org/docs/apache-airflow/stable/start.html) or with [my installer](INSTALL_FRAMEWOK.sh),
+- Airflow can be installed with [quick start page](https://airflow.apache.org/docs/apache-airflow/stable/start.html) or with [my installer](INSTALL_FRAMEWORK.sh),
 beacuse it will be easier to install using virtual env :)
 - bwa, fastqc, samtools and freebayes can be installed from AUR
 - I have problems with freebayes, so it can be easier to download pre-built file from [release page](https://github.com/freebayes/freebayes/releases/download/v1.3.6/freebayes-1.3.6-linux-amd64-static.gz)
